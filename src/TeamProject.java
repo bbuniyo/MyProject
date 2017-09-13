@@ -3,9 +3,10 @@ public class TeamProject {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Ã¹  git TeamProject ÀÔ´Ï´Ù");
-		System.out.println("µÎ¹øÂ° Ãß°¡ÇØ º¾´Ï´Ù.");
-		System.out.println("ÄÄÇ»ÅÍ °øÇĞ°ú 20122968 ÀÌµ¿Çõ ÀÔ´Ï´Ù. Àß ºÎÅ¹µå¸³´Ï´Ù.");
+		System.out.println("ì²«  git TeamProject ì…ë‹ˆë‹¤");
+		System.out.println("ë‘ë²ˆì§¸ ì¶”ê°€í•´ ë´…ë‹ˆë‹¤.");
+		System.out.println("ì»´í“¨í„° ê³µí•™ê³¼ 20122968 ì´ë™í˜ ì…ë‹ˆë‹¤. ì˜ ë¶€íƒë“œë¦½ë‹ˆë‹¤.");
+		System.out.println("ì•ˆë…•í•˜ì„¸ìš” í™©ë•í¬ ì…ë‹ˆë‹¤.");
 	}
 
 }
